@@ -1,0 +1,1 @@
+# Crowd_funding_platform_frontend
